@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLExcel_EPPlus", "CLExcel_EPPlus\CLExcel_EPPlus.csproj", "{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSAccessReportGenerator", "MSAccessReportGenerator\MSAccessReportGenerator.csproj", "{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|32bit = Debug|32bit
+		Debug|64bit = Debug|64bit
+		Debug|Any CPU_default = Debug|Any CPU_default
+		Release|32bit = Release|32bit
+		Release|64bit = Release|64bit
+		Release|Any CPU_default = Release|Any CPU_default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|32bit.ActiveCfg = Debug|x86
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|32bit.Build.0 = Debug|x86
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|64bit.ActiveCfg = Debug|x64
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|64bit.Build.0 = Debug|x64
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|Any CPU_default.ActiveCfg = Debug|Any CPU
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Debug|Any CPU_default.Build.0 = Debug|Any CPU
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|32bit.ActiveCfg = Release|x86
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|32bit.Build.0 = Release|x86
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|64bit.ActiveCfg = Release|x64
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|64bit.Build.0 = Release|x64
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|Any CPU_default.ActiveCfg = Release|Any CPU
+		{FD43AE2D-A07A-4809-B59B-F45FA2254BE1}.Release|Any CPU_default.Build.0 = Release|Any CPU
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|32bit.ActiveCfg = Debug|x86
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|32bit.Build.0 = Debug|x86
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|64bit.ActiveCfg = Debug|x64
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|64bit.Build.0 = Debug|x64
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|Any CPU_default.ActiveCfg = Debug|Any CPU
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Debug|Any CPU_default.Build.0 = Debug|Any CPU
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|32bit.ActiveCfg = Release|x86
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|32bit.Build.0 = Release|x86
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|64bit.ActiveCfg = Release|x64
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|64bit.Build.0 = Release|x64
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|Any CPU_default.ActiveCfg = Release|Any CPU
+		{CCA3FE92-0A86-4C3F-92EC-E0069C4EF0BB}.Release|Any CPU_default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84CCF129-BEF4-496E-AA82-13D5FFBDCCDA}
+	EndGlobalSection
+EndGlobal
